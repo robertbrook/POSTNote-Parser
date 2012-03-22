@@ -1,0 +1,16 @@
+
+This is a small demo to show an XML output of a POSTNote styled to be presented in a browser.
+
+The project contains five files:
+
+Postnote62(300dpi)OCR.pdf - a copy of the original POSTNote in PDF form
+
+default.css - the CSS used to style the XML output
+
+postnoteparser.rb - a skeleton parser, not use in this project
+
+README - this file
+
+postnote.xml - the POSTNote XML file, with CSS file linked
+
+To view the output: open the file "postnote.xml" in a web browser. This output has only been demonstrated using the Safari browser on the Mac.
